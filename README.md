@@ -3,7 +3,7 @@ A Web App inventory management system to manage inventory of Types of drinks.
 It was made using **Flask** and **MySql**. 
 It contains the **Crud** features; **Create item, Read item, Update item and Delete item** as **Add item, View inventory, Update item and Delete item** repectively.
 ___
-![Uploading image.png…]()
+<img width="884" height="329" alt="image" src="https://github.com/user-attachments/assets/71c5fe35-586b-487e-a238-376b67f863ab" />
 
 ___
 
